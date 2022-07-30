@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Emre Sahin
-- 👀 I’m interested in Data Science & Engineering & Research,
+- 👀 I’m interested in Data Science & Engineering & Architecture,
 - 🌱 I’m currently learning Machine-Deep learning alghoritms,
-- 💞️ I’m looking to collaborate on a project in my next company,
+- 💞️ I’m looking forward to add value to your organisation,
 - 📫 You can reach me through my e-mail adress, emre.sahin.uk@gmail.com
 
 <!---
